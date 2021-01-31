@@ -1,2 +1,3 @@
 ccvi-US - COVID-19 Community Vulnerability Index (CCVI)
 SVI2018_US_COUNTY - Socioeconomic Vulnerability and more
+county_adjacency2010.csv - https://www.nber.org/research/data/county-adjacency
